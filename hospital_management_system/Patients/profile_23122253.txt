@@ -1,0 +1,7 @@
+PatientID : 23122253                      Date : Tue Mar 19 12:07:42 2024
+Name : SumitPrajapati
+Age : 21
+Sex : m
+Phone : 21421424
+Email : ms@smsm.com
+Address : adas  d a
