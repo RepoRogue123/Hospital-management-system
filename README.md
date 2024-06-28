@@ -27,7 +27,7 @@ Welcome to the IIT Jodhpur Hospital Management System. This system helps manage 
     ```
 2. **Navigate to the Project Directory**
     ```sh
-    cd hospital-management-system
+    cd .\Hospital-management-system\
     ```
 3. **Compile the Program**
     ```sh
