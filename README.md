@@ -23,7 +23,7 @@ Welcome to the IIT Jodhpur Hospital Management System. This system helps manage 
 ## Installation
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/hospital-management-system.git
+    git clone https://github.com/RepoRogue123/Hospital-management-system.git
     ```
 2. **Navigate to the Project Directory**
     ```sh
