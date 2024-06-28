@@ -27,15 +27,15 @@ Welcome to the IIT Jodhpur Hospital Management System. This system helps manage 
     ```
 2. **Navigate to the Project Directory**
     ```sh
-    cd .\Hospital-management-system\
+   cd .\hospital_management_system\
     ```
 3. **Compile the Program**
     ```sh
-    gcc hospital_management_system.c -o hospital_management_system
+    gcc "Hospital management system.c" -o "Hospital management system"
     ```
 4. **Run the Program**
     ```sh
-    ./hospital_management_system
+    & ".\Hospital management system"
     ```
 
 ## Usage
