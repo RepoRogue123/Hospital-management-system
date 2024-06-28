@@ -74,13 +74,3 @@ When you run the program, you will be greeted with the main menu:
 - **cyan(), red(), blue(), reset()**: Functions for colored output.
 - **baseline()**: Prints a baseline of asterisks for UI separation.
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For any questions or suggestions, please contact:
-- **Name**: Shashank Parchure
-- **Email**: shashank@example.com
